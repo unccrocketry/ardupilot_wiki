@@ -203,7 +203,7 @@ these classes.
 | chx1in, chx2in, ....    | float                   | Input Channels from 1   |
 | chx8in                  |                         | to 8                    |
 +-------------------------+-------------------------+-------------------------+
-| ch1out, chx2out, ....   | float                   | Output Channel form 1   |
+| ch1out, chx2out, ....   | float                   | Output Channel from 1   |
 | chx8out                 |                         | to 8                    |
 +-------------------------+-------------------------+-------------------------+
 | nav_roll                | float                   | Roll Target (deg)       |
